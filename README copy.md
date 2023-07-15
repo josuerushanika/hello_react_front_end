@@ -60,7 +60,7 @@ https://github.com/josuerushanika/hello_react_front_end.git
 
 ### Hello_rails_back_end
 
-[API Link](https://github.com/josuerushanika/hello-rails-back-end/pull/1)
+[API Link](https://github.com/josuerushanika/hello_react_front_end)
 
 
 ### Prerequisites:
@@ -88,7 +88,7 @@ https://github.com/josuerushanika/hello_react_front_end.git
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Josue RUSHANIKA**
+👤 **Josue Rushanika**
 
 - GitHub: [@githubhandle](https://github.com/josuerushanika)
 - Twitter: [@twitterhandle](https://twitter.com/josuerushanika)
